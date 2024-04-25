@@ -13,7 +13,7 @@ const bareServer = createBareServer("/o/")
 const PORT = process.env.PORT || 8080
 
 if (config.challenge) {
-  console.log("failed password check. Usernames are: " + Object.keys(config.users))
+  console.log("Password protection enabled. Usernames are: " + Object.keys(config.users))
   console.log("Passwords are: " + Object.values(config.users))
 
   app.use(
