@@ -6,7 +6,8 @@ const config = {
     cj:"rah",
     monkey:"tickler",
     will:"willybilly",
-    jouse:"tacoforlife"
+    jouse:"tacoforlife",
+    Coolguy69:"Sam42069"
     
     
   },
