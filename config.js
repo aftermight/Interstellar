@@ -4,7 +4,6 @@ const config = {
     // You can add multiple users by doing username: 'password'.
     sam:"owned",
     cj:"rah",
-    monkey:"tickler",
     will:"willybilly",
     jouse:"tacoforlife",
     Coolguy69:"Sam42069"
